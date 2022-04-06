@@ -13,7 +13,7 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to Brian application" />
-        <Image src="./peru.png"></Image>
+        <Image src="/peru.png"></Image>
         <p className="description">
           Puedes ver el repositorio de esta página <a href="https://github.com/Brian-RG/next-netlify-starter" target="_blank">aquí</a>
         </p>
